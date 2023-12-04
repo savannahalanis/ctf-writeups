@@ -11,7 +11,7 @@ It seems DEADFACE was able to track Alejandro's movements again. They shared thi
 Submit flag as flag{City, state code, zip code}
 Example: flag{Allison Park, PA, 15101}
 
-![Wide shot of a Lucky's supermarket parking lot, with mountains in the background]()
+![Wide shot of a Lucky's supermarket parking lot, with mountains in the background](https://github.com/savannahalanis/ctf-writeups/blob/main/deadface-2023/feeling-lucky.png)
 
 ## My Process
 
